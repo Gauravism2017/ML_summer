@@ -1,0 +1,135 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.951
+Model:                            OLS   Adj. R-squared:                  0.945
+Method:                 Least Squares   F-statistic:                     169.9
+Date:                Thu, 16 May 2019   Prob (F-statistic):           1.34e-27
+Time:                        21:49:49   Log-Likelihood:                -525.38
+No. Observations:                  50   AIC:                             1063.
+Df Residuals:                      44   BIC:                             1074.
+Df Model:                           5                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const        1.12e+05   1334.905     83.911      0.000    1.09e+05    1.15e+05
+x1          3.663e+04   2108.775     17.369      0.000    3.24e+04    4.09e+04
+x2          -748.9975   1448.705     -0.517      0.608   -3668.671    2170.676
+x3          3266.2152   2075.251      1.574      0.123    -916.178    7448.608
+x4            19.8422   1542.414      0.013      0.990   -3088.690    3128.374
+x5           112.2695   1557.497      0.072      0.943   -3026.660    3251.199
+==============================================================================
+Omnibus:                       14.782   Durbin-Watson:                   1.283
+Prob(Omnibus):                  0.001   Jarque-Bera (JB):               21.266
+Skew:                          -0.948   Prob(JB):                     2.41e-05
+Kurtosis:                       5.572   Cond. No.                         2.99
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.950
+Model:                            OLS   Adj. R-squared:                  0.946
+Method:                 Least Squares   F-statistic:                     215.8
+Date:                Thu, 16 May 2019   Prob (F-statistic):           9.72e-29
+Time:                        21:49:49   Log-Likelihood:                -525.53
+No. Observations:                  50   AIC:                             1061.
+Df Residuals:                      45   BIC:                             1071.
+Df Model:                           4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const        1.12e+05   1323.993     84.602      0.000    1.09e+05    1.15e+05
+x1           3.62e+04   1928.741     18.771      0.000    3.23e+04    4.01e+04
+x2          3601.6435   1955.116      1.842      0.072    -336.162    7539.449
+x3             9.2484   1529.671      0.006      0.995   -3071.667    3090.164
+x4            74.7810   1543.091      0.048      0.962   -3033.163    3182.725
+==============================================================================
+Omnibus:                       14.640   Durbin-Watson:                   1.257
+Prob(Omnibus):                  0.001   Jarque-Bera (JB):               21.037
+Skew:                          -0.938   Prob(JB):                     2.70e-05
+Kurtosis:                       5.565   Cond. No.                         2.70
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.562
+Model:                            OLS   Adj. R-squared:                  0.534
+Method:                 Least Squares   F-statistic:                     19.71
+Date:                Thu, 16 May 2019   Prob (F-statistic):           2.32e-08
+Time:                        21:49:49   Log-Likelihood:                -579.99
+No. Observations:                  50   AIC:                             1168.
+Df Residuals:                      46   BIC:                             1176.
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const        1.12e+05   3891.322     28.785      0.000    1.04e+05     1.2e+05
+x1          3.002e+04   3988.926      7.525      0.000     2.2e+04     3.8e+04
+x2         -1987.9409   4484.936     -0.443      0.660    -1.1e+04    7039.767
+x3         -2514.8319   4517.105     -0.557      0.580   -1.16e+04    6577.629
+==============================================================================
+Omnibus:                        3.720   Durbin-Watson:                   1.174
+Prob(Omnibus):                  0.156   Jarque-Bera (JB):                2.973
+Skew:                          -0.299   Prob(JB):                        0.226
+Kurtosis:                       4.034   Cond. No.                         1.78
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.561
+Model:                            OLS   Adj. R-squared:                  0.542
+Method:                 Least Squares   F-statistic:                     29.99
+Date:                Thu, 16 May 2019   Prob (F-statistic):           4.04e-09
+Time:                        21:49:49   Log-Likelihood:                -580.09
+No. Observations:                  50   AIC:                             1166.
+Df Residuals:                      47   BIC:                             1172.
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const        1.12e+05   3857.915     29.035      0.000    1.04e+05     1.2e+05
+x1          3.016e+04   3942.206      7.650      0.000    2.22e+04    3.81e+04
+x2         -1564.9007   3942.206     -0.397      0.693   -9495.597    6365.795
+==============================================================================
+Omnibus:                        3.771   Durbin-Watson:                   1.174
+Prob(Omnibus):                  0.152   Jarque-Bera (JB):                2.997
+Skew:                          -0.314   Prob(JB):                        0.223
+Kurtosis:                       4.022   Cond. No.                         1.23
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.559
+Model:                            OLS   Adj. R-squared:                  0.550
+Method:                 Least Squares   F-statistic:                     60.88
+Date:                Thu, 16 May 2019   Prob (F-statistic):           4.38e-10
+Time:                        21:49:49   Log-Likelihood:                -580.18
+No. Observations:                  50   AIC:                             1164.
+Df Residuals:                      48   BIC:                             1168.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const        1.12e+05   3823.911     29.293      0.000    1.04e+05     1.2e+05
+x1          2.984e+04   3823.911      7.803      0.000    2.21e+04    3.75e+04
+==============================================================================
+Omnibus:                        4.420   Durbin-Watson:                   1.178
+Prob(Omnibus):                  0.110   Jarque-Bera (JB):                3.882
+Skew:                          -0.336   Prob(JB):                        0.144
+Kurtosis:                       4.188   Cond. No.                         1.00
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
