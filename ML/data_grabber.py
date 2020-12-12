@@ -3,7 +3,7 @@ import pandas as pd
 
 class GetData():
 
-    def __init__(self, start_date = "2010-01-01", end_date = "2019-01-01", api = '7y4Y2Lk2-zDQx_Ms97GU', company_code = 'AMZN', TDC = 'WIKI'):
+    def __init__(self, start_date = "2010-01-01", end_date = "2019-01-01", api = '7y4Y2Lk2-####_Ms97GU', company_code = 'AMZN', TDC = 'WIKI'):
         self.start_date = start_date
         self.end_date = end_date
         self.api = api
